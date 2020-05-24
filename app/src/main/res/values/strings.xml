@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LAB05_IT18202632</string>
+    <string name="lab_UserName">User Name</string>
+    <string name="lab_pass">Password</string>
+    <string name="lab_button1">Sellect All</string>
+    <string name="lab_button2">ADD</string>
+    <string name="lab_button3">SIGN IN</string>
+    <string name="lab_button4">DELETE</string>
+    <string name="lab_button5">UPDATE</string>
+    <string name="welcom_here">Welcom Here</string>
+    <string name="un">User Name</string>
+    <string name="pw">Password</string>
+    <string name="slctall">Select All</string>
+    <string name="Add" translatable="false">Add</string>
+    <string name="signin">SIGN IN</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="upsearch">edit search</string>
+    <string name="list">USer List</string>
+
+</resources>
